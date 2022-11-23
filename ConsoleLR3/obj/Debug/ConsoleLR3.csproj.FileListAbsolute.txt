@@ -1,0 +1,15 @@
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.exe.config
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.exe
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.pdb
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.csproj.AssemblyReference.cache
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.exe
+C:\Users\Студент.PC11\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.pdb
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.exe.config
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.exe
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\bin\Debug\ConsoleLR3.pdb
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.exe
+C:\Users\Admin\source\repos\ConsoleLR3\ConsoleLR3\obj\Debug\ConsoleLR3.pdb
